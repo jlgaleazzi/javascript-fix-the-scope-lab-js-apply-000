@@ -6,7 +6,7 @@ function myAnimal() {
 
 function yourAnimal() {
  var myanimal = cat;
-  return animal;
+  return myanimal;
 }
 
  const two = 2
