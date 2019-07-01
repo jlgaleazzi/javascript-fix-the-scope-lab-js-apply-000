@@ -4,8 +4,8 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal() {
-  return myAnimal()
+function yourAnimal(animal) {
+  return animal;
 }
 
  const two = 2
